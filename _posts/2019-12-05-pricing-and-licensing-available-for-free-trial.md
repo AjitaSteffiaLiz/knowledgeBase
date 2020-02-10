@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Is Apps4.Pro Planner app available for free trial?
 main: Pricing and Licensing
 contentUrl: /pricing-and-licensing-available-for-free-trial/
