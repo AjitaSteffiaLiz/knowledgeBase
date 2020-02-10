@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Can I try this app for my team?
 main: Pricing and Licensing
 contentUrl: /pricing-and-licensing-app-for-my-team/
