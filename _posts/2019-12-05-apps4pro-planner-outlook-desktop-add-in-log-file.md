@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How to genertae logfile for this extension?
 main: Apps4.Pro Planner Manager
 sub: Chrome Extension
