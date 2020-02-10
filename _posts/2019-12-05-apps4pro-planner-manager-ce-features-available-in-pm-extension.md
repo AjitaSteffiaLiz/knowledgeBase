@@ -1,5 +1,4 @@
 ---
-layout: post
 Title: What are the benefits if I use Planner Manager chrome extension than the desktop app?
 main: Apps4.Pro Planner Manager
 sub: Desktop app
