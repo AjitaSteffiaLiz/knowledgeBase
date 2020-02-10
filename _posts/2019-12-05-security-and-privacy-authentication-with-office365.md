@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How Apps4.Pro Planner handle user authentication with Office 365?
 main: Security and Privacy
 contentUrl: /security-and-privacy-authentication-with-office365/
