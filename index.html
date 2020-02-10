@@ -6,6 +6,9 @@ use-site-title: true
 ---
 <br>
 <br>
+url:{{site.url}}
+relative:{{site.url | relative_url}}
+absolute:{{site.url | absolute_url}}
 <div class="row">
     {% for head in site.data.kb.KnowledgeBase %}
     <div class="col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 article-container" style="padding-bottom: 10px;">
