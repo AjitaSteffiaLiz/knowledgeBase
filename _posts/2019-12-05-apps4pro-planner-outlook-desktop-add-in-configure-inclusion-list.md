@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How to configure inclusion list security for the add-in?
 main: Apps4.Pro Planner Outlook Desktop add-in
 contentUrl: /apps4pro-planner-outlook-desktop-add-in-configure-inclusion-list/
