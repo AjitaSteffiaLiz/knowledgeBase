@@ -1,7 +1,8 @@
 title: Apps4.pro Support
 description: This is sample page.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/knowledgeBase" # the subpath of your site, e.g. /blog
+url: "AjitaSteffiaLiz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 port: 4006
 navbar-links:
