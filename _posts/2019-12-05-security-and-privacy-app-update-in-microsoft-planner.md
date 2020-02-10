@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What information does Planner Manager app update in Microsoft Planner?
 main: Security and Privacy
 contentUrl: /security-and-privacy-app-update-in-microsoft-planner/
