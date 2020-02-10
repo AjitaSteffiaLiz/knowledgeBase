@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What should I do incase, I receive Another object with the same value for property mailNickname already exists error during import?
 main: Apps4.Pro Planner Manager
 sub: Chrome Extension
