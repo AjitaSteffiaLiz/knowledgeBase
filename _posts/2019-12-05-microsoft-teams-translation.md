@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How do I update the existing planner tasks using Excel?
 main: Apps4.Pro Planner Manager
 cub: Chrome Extension
