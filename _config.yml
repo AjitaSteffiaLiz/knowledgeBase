@@ -1,7 +1,7 @@
 title: Apps4.pro Support
 description: This is sample page.
-url:""
-baseurl: "/knowledgeBase" # the subpath of your site, e.g. /blog
+
+baseurl: "" # the subpath of your site, e.g. /blog
 
 port: 4006
 navbar-links:
